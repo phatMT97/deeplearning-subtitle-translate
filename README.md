@@ -37,11 +37,13 @@ git clone https://github.com/phatMT97/deeplearning-subtitle-translate.git
 
 1. Open the lecture video on Coursera or Deeplearning.ai
 
-2. Find the icon 🌐 in the upper right corner of the video player
+2. Open extension then click "Translate Subtitles" button
 
-3. Click on the icon to enable/disable the translation function
+3. Find the icon 🌐 in the upper right corner of the video player
 
-4. The subtitles will be automatically translated into Vietnamese
+4. Click on the icon to enable/disable the translation function
+
+5. The subtitles will be automatically translated
 
 ## Subtitle Font Size Option
 
