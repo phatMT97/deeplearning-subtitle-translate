@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Coursera Subtitle Translator",
+    "name": "Subtitle Translator",
     "description": "Coursera Subtitle Translator",
     "version": "1.0.0",
     "icons": {
