@@ -16,6 +16,7 @@ This is a Chrome extension that translates English subtitles in Coursera and Dee
 - 🔄 Display sub: alternative or bilingual
 - 💾 Cache translations to increase display speed
 - 🎨 Integrated translation icon in video player: Easy to turn on/off translation function
+- 🧩 Subtitle Font Size Option
 
 
 ## 🚀 Installation
@@ -44,10 +45,6 @@ git clone https://github.com/phatMT97/deeplearning-subtitle-translate.git
 4. Click on the icon to enable/disable the translation function
 
 5. The subtitles will be automatically translated
-
-## Subtitle Font Size Option
-
-You can now adjust the subtitle font size using the slider in the popup. The selected size will be applied to translate subtitles on the video player.
 
 ## 🛠️ Technology used
 
